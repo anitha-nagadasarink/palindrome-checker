@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Countdown app</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+  <section
+    class="bg-blueLight h-[100vh] text-center py-8 md:p-20  bg-purple-500 font-semibold">
+    <h1 class="md:text-5xl mb-6 uppercase text-lg text-white">Palindrome Checker</h1>
+    <div class="w-[90%] lg:w-[45%] mt-10 bg-white shadow-xl shadow-black-400 rounded-lg p-3 mx-auto">  
+      <form class="flex">
+        <input type="number" id="number" class="w-[70%] p-2 m-auto text-black border-2 border-purple-500" min="5" max="100" />
+      <button
+        class="btn-checker p-3 bg-violet-500 my-9 text-white w-1/2 md:w-1/6  mx-auto ransition duration-700 ease-in-outhover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-300">Check</button>
+      </form>
+
+        <h2 class="status-text text-lg md:text-2xl mb-4 text-purple-500"></h2>  
+    </div>
+   
+  </section>
+  <script src="script.js"></script>
+</body>
+
+</html>
