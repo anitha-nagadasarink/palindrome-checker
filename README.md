@@ -1,4 +1,4 @@
-# Project Name : **Random Password Generator** 
+# Project Name : **Palindrome Checker** 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
 
 This project developed with pure HTML and TailwindCSS mainly focused on Pure Javascript. <br/>
@@ -31,8 +31,7 @@ Users can enter text or numbers and check whether the entered value is palindrom
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo.PNG)
-![Min Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-1.PNG)
-![Max Value](https://github.com/anitha-nagadasarink/random-password-generator/blob/Javascript-projects/Image/demo-2.PNG)
+![Palindrome](https://github.com/anitha-nagadasarink/palindrome-checker/blob/Javascript-projects/images/demo.PNG)
+![Not Palindrome](https://github.com/anitha-nagadasarink/palindrome-checker/blob/Javascript-projects/images/demo-1.PNG)
 
 
