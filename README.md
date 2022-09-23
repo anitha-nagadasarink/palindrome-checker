@@ -3,7 +3,7 @@
 
 This project developed with pure HTML and TailwindCSS mainly focused on Pure Javascript. <br/>
 
-Users can enter text or numbers and check whether the entered value is palindrome or not by clicking on the check button.  
+Users can enter numbers and check whether the entered value is palindrome or not by clicking on the check button.  
 
 <br/>
 
