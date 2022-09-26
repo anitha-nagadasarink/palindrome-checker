@@ -27,7 +27,7 @@ Users can enter numbers and check whether the entered value is palindrome or not
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://new-random-password-generator.netlify.app/)
+[Live Link !](https://number-palindrome-checker.netlify.app/)
 
 ### Demo :
 
